@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "date": "2026-10-10",
+  "notes": "Vidiana v0.1.0 beta - first release on the update channel. Korean and English UI. This beta runs until October 25, 2026.",
+  "notes_ko": "비디아나 v0.1.0 베타 - 업데이트 채널 첫 판. 한국어·영어 화면 지원. 이 베타 판은 2026년 10월 25일까지 실행됩니다.",
+  "notes_en": "Vidiana v0.1.0 beta - first release on the update channel. Korean and English UI. This beta runs until October 25, 2026.",
+  "url": "https://github.com/heewonchun-del/vidiana-update/releases/download/v0.1.0/vidiana_patch.exe",
+  "sha256": "4c02c59bf065643798d0ee32f59ac0974a94463c953495b6f4c445ae2168c350",
+  "reboot_required": false
+}
